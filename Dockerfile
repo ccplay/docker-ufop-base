@@ -1,4 +1,4 @@
-FROM ccplay/android-aapt
+FROM ccplay/docker-android-aapt
 MAINTAINER Ranger.Huang <ranger.huang@ccplay.cc>
 
 RUN \cp -f /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
