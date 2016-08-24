@@ -1,4 +1,4 @@
-FROM ccplay/docker-android-aapt
+FROM ccplay/android-aapt
 MAINTAINER Ranger.Huang <ranger.huang@ccplay.cc>
 
 
